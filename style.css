@@ -1,0 +1,13 @@
+body {
+  background-image: url(./images/pattern-background-desktop.svg);
+  background-size: cover;
+  background-color: rgb(192, 144, 240);
+  background-repeat: no-repeat;
+}
+
+.container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
